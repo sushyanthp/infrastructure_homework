@@ -1,2 +1,0 @@
-# infrastructure_homework
-Infrastructure Homework Response
